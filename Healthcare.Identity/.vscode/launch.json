@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        
+        {
+            "name": "C#: Healthcare.Identity.Service",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Healthcare.Identity.Service\\Healthcare.Identity.Service.csproj",
+            "launchConfigurationId": "TargetFramework=;Healthcare.Identity.Service"
+        }
+    ]
+}

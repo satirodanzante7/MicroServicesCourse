@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{18384612-F835-458F-B851-DDE66AE1AB2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Play.Identity.Service", "src\Play.Identity.Service\Play.Identity.Service.csproj", "{2515AFAA-3C52-4D8C-93E5-BF4043E02F3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2515AFAA-3C52-4D8C-93E5-BF4043E02F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2515AFAA-3C52-4D8C-93E5-BF4043E02F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2515AFAA-3C52-4D8C-93E5-BF4043E02F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2515AFAA-3C52-4D8C-93E5-BF4043E02F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2515AFAA-3C52-4D8C-93E5-BF4043E02F3F} = {18384612-F835-458F-B851-DDE66AE1AB2D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF2AA532-23DD-4624-8A19-54DB491DA1D6}
+	EndGlobalSection
+EndGlobal
